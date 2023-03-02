@@ -10,7 +10,7 @@
 
 -No transaction limit per day
 
--Can send up to 20 BTC per Transaction
+-Can send up to 40 BTC per Transaction
 
 -Stay in the wallet Upto 30-45 days
 
